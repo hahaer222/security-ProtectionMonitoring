@@ -26,7 +26,7 @@ namespace OuterCavity
         protected bool CheckPersonInfo()
         { 
             //获取人员信息并设置PersonInfo
-
+            return false; ;
         }
     }
 }

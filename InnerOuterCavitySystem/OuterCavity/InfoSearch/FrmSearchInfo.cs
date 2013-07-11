@@ -61,32 +61,44 @@ namespace OuterCavity.InfoSearch
             }
             else if(e.KeyChar == 52)//监规
             {
-                
+                ShowTabForm(btn_Notice.Text);
             }
         }
 
 
         private void ShowTabForm(string text)
         {
-            if (text == btn_BaseInfo.Text)
+            try
             {
-                frm = new frmBaseInfo();
-               
-            }
-            if (text == btn_Account.Text)
-            {
-                frm = new frmAccount();
-                
-            }
-            frm.TopLevel = false;
-            TabPage tp = new TabPage();
-            tp.Controls.Add(frm);
-            frm.Dock = DockStyle.Fill;
-            this.tabControl1.TabPages.Add(tp);
-            tabControl1.SelectedTab = tp;
-            tp.Show();
+                if (text == btn_BaseInfo.Text)
+                {
+                    frm = new frmBaseInfo();
+                }
+                if (text == btn_Account.Text)
+                {
+                    frm = new frmAccount();
+                }
+                if (text == btn_Manage.Text)
+                {
+                    frm = new frmDeliver();
+                }
+                if (text == btn_Notice.Text)
+                {
+                    frm = new frmNotice();
+                }
+                frm.TopLevel = false;
+                TabPage tp = new TabPage();
+                tp.Controls.Add(frm);
+                frm.Dock = DockStyle.Fill;
+                this.tabControl1.TabPages.Add(tp);
+                tabControl1.SelectedTab = tp;
+                tp.Show();
 
-            frm.Show();
+                frm.Show();
+            }
+            catch
+            {
+            }
         }
     }
 }

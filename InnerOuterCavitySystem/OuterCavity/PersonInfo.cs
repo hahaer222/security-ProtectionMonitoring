@@ -7,8 +7,8 @@ namespace OuterCavity
 {
     public class PersonInfo
     {
-        public static string PersonID = "";
+        public static string PersonKey = "";
         public static string PersonCode = "";
-
+        public static string PersonName = "";
     }
 }

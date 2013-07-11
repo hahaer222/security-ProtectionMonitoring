@@ -127,6 +127,9 @@
     <EmbeddedResource Include="InfoSearch\frmBaseInfo.resx">
       <DependentUpon>frmBaseInfo.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="InfoSearch\frmDeliver.resx">
+      <DependentUpon>frmDeliver.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="InfoSearch\FrmSearchInfo.resx">
       <DependentUpon>FrmSearchInfo.cs</DependentUpon>
     </EmbeddedResource>

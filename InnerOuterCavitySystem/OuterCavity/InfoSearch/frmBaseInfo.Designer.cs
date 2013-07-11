@@ -464,6 +464,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txt_P_Key);
             this.Controls.Add(this.label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Location = new System.Drawing.Point(0, 0);
             this.Name = "frmBaseInfo";
             this.Text = "个人基本信息";
