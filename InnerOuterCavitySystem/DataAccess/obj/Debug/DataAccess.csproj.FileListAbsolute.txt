@@ -1,0 +1,5 @@
+c:\users\lly\documents\visual studio 2012\Projects\InnerOuterCavitySystem\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+c:\users\lly\documents\visual studio 2012\Projects\InnerOuterCavitySystem\DataAccess\bin\Debug\DataAccess.dll
+c:\users\lly\documents\visual studio 2012\Projects\InnerOuterCavitySystem\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\lly\documents\visual studio 2012\Projects\InnerOuterCavitySystem\DataAccess\obj\Debug\DataAccess.dll
+c:\users\lly\documents\visual studio 2012\Projects\InnerOuterCavitySystem\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,5 @@
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\Model\bin\Debug\Model.dll
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\Model\bin\Debug\Model.pdb
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\Model\obj\Debug\Model.dll
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\Model\obj\Debug\Model.pdb

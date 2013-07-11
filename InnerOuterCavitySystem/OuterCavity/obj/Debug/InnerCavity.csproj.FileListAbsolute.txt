@@ -1,0 +1,15 @@
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\OuterCavity\bin\Debug\OuterCavity.exe
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\OuterCavity\bin\Debug\OuterCavity.pdb
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\OuterCavity\obj\Debug\InnerCavity.csprojResolveAssemblyReference.cache
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\OuterCavity\obj\Debug\OuterCavity.frmBase.resources
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\OuterCavity\obj\Debug\OuterCavity.frmMain.resources
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\OuterCavity\obj\Debug\OuterCavity.frmScreenSaver.resources
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\OuterCavity\obj\Debug\OuterCavity.Properties.Resources.resources
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\OuterCavity\obj\Debug\InnerCavity.csproj.GenerateResource.Cache
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\OuterCavity\obj\Debug\OuterCavity.exe
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\OuterCavity\obj\Debug\OuterCavity.pdb
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\OuterCavity\obj\Debug\OuterCavity.frmHome.resources
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\OuterCavity\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\OuterCavity\obj\Debug\OuterCavity.InfoSearch.frmAccount.resources
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\OuterCavity\obj\Debug\OuterCavity.InfoSearch.frmBaseInfo.resources
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\OuterCavity\obj\Debug\OuterCavity.InfoSearch.FrmSearchInfo.resources

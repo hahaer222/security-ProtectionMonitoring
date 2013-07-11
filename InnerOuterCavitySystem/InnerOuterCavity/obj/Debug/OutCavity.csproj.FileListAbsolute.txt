@@ -1,0 +1,9 @@
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\InnerOuterCavity\bin\Debug\InnerOuterCavity.exe.config
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\InnerOuterCavity\bin\Debug\InnerOuterCavity.exe
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\InnerOuterCavity\bin\Debug\InnerOuterCavity.pdb
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\InnerOuterCavity\obj\Debug\InnerOuterCavity.frmMain.resources
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\InnerOuterCavity\obj\Debug\InnerOuterCavity.Properties.Resources.resources
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\InnerOuterCavity\obj\Debug\OutCavity.csproj.GenerateResource.Cache
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\InnerOuterCavity\obj\Debug\InnerOuterCavity.exe
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\InnerOuterCavity\obj\Debug\InnerOuterCavity.pdb
+C:\Users\Lly\Documents\Visual Studio 2012\Projects\InnerOuterCavitySystem\InnerOuterCavity\obj\Debug\OutCavity.csprojResolveAssemblyReference.cache
